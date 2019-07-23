@@ -1,44 +1,44 @@
-Leader,Born,Death,Age,Gender,Civilization,Continent,Region
-Ahmad al-Mansur,1549.0,1603.0,54.0,Male,Morrocan,Africa,Africa
-Alexander,-356.0,-323.0,33.0,Male,Greek,Europe,Europe
-Ashurbanipal,-685.0,-627.0,58.0,Male,Assyrian,Asia,Middle East
-Askia,1442.0,1538.0,96.0,Male,Songhai,Africa,Africa
-Attila,406.0,453.0,47.0,Male,Hunnic,Asia,Asia
-Augustus Caesar,-63.0,14.0,77.0,Male,Roman,Europe,Europe
-Bismarck,1815.0,1898.0,83.0,Male,German,Europe,Europe
-Boudicca,25.0,61.0,36.0,Female,Celtic,Europe,Europe
-Casimir III,1310.0,1370.0,60.0,Male,Polish,Europe,Europe
-Catherine,1729.0,1796.0,67.0,Female,Russian,Europe,Europe
-Darius I,-550.0,-486.0,64.0,Male,Persian,Asia,Middle East
-Dido,-839.0,-759.0,80.0,Female,Carthaginian,Africa,Africa
-Elizabeth,1533.0,1603.0,70.0,Female,English,Europe,Europe
-Enrico Dandolo,1107.0,1205.0,98.0,Male,Venetian,Europe,Europe
-Gajah Mada,1290.0,1364.0,74.0,Male,Indonesian,Oceania,Oceania
-Gandhi,1869.0,1948.0,79.0,Male,Indian,Asia,Asia
-Genghis Khan,1162.0,1227.0,65.0,Male,Mongolian,Asia,Asia
-Gustavus Adolphus,1594.0,1632.0,38.0,Male,Swedish,Europe,Europe
-Haile Selassie,1892.0,1975.0,83.0,Male,Ethiopian,Africa,Africa
-Harald Bluetooth,920.0,986.0,66.0,Male,Danish,Europe,Europe
-Harun al-Rashid,763.0,809.0,46.0,Male,Arabian,Asia,Middle East
-Hiawatha,1525.0,1595.0,70.0,Male,Iroquois,N. America,Americas
-Isabella,1451.0,1504.0,53.0,Female,Spanish,Europe,Europe
-Kame­hameha,1758.0,1819.0,61.0,Male,Polynesian,Oceania,Oceania
-Maria I,1734.0,1816.0,82.0,Female,Portuguese,Europe,Europe
-Maria Theresa,1717.0,1780.0,63.0,Female,Austrian,Europe,Europe
-Montezuma,1398.0,1469.0,71.0,Male,Aztec,N. America,Americas
-Napoleon,1769.0,1821.0,52.0,Male,French,Europe,Europe
-Nebuchad­nezzar II,-634.0,-562.0,72.0,Male,Babylonian,Asia,Middle East
-Oda Nobunaga,1534.0,1582.0,48.0,Male,Japanese,Asia,Asia
-Pacal,603.0,683.0,80.0,Male,Mayan,N. America,Americas
-Pachacuti,1410.0,1471.0,61.0,Male,Incan,S. America,Americas
-Pedro II,1825.0,1891.0,66.0,Male,Brazilian,S. America,Americas
-Pocatello,1815.0,1884.0,69.0,Male,Shoshone,N. America,Americas
-Ramesses II,-1303.0,-1213.0,90.0,Male,Egyptian,Africa,Africa
-Ram­khamhaeng,1240.0,1298.0,58.0,Male,Thai,Asia,Asia
-Sejong,1397.0,1450.0,53.0,Male,Korean,Asia,Asia
-Shaka,1787.0,1828.0,41.0,Male,Zulu,Africa,Africa
-Suleiman,1494.0,1566.0,72.0,Male,Turkish,Europe,Europe
-Theodora,497.0,548.0,51.0,Female,Byzantine,Europe,Europe
-Washington,1732.0,1799.0,67.0,Male,American,N. America,Americas
-William,1533.0,1584.0,51.0,Male,Dutch,Europe,Europe
-Wu Zetian,625.0,705.0,80.0,Female,Chinese,Asia,Asia
+Leader,Born,Death,Age,Era,Gender,Civilization,Continent,Region
+Ahmad al-Mansur,1549.0,1603.0,54.0,Renaissance,Male,Morrocan,Africa,Africa
+Alexander,-356.0,-323.0,33.0,Classical,Male,Greek,Europe,Europe
+Ashurbanipal,-685.0,-627.0,58.0,Ancient,Male,Assyrian,Asia,Middle East
+Askia,1442.0,1538.0,96.0,Renaissance,Male,Songhai,Africa,Africa
+Attila,406.0,453.0,47.0,Classical,Male,Hunnic,Asia,Asia
+Augustus Caesar,-63.0,14.0,77.0,Classical,Male,Roman,Europe,Europe
+Bismarck,1815.0,1898.0,83.0,Modern,Male,German,Europe,Europe
+Boudicca,25.0,61.0,36.0,Classical,Female,Celtic,Europe,Europe
+Casimir III,1310.0,1370.0,60.0,Medieval,Male,Polish,Europe,Europe
+Catherine,1729.0,1796.0,67.0,Renaissance,Female,Russian,Europe,Europe
+Darius I,-550.0,-486.0,64.0,Ancient,Male,Persian,Asia,Middle East
+Dido,-839.0,-759.0,80.0,Ancient,Female,Carthaginian,Africa,Africa
+Elizabeth,1533.0,1603.0,70.0,Renaissance,Female,English,Europe,Europe
+Enrico Dandolo,1107.0,1205.0,98.0,Medieval,Male,Venetian,Europe,Europe
+Gajah Mada,1290.0,1364.0,74.0,Medieval,Male,Indonesian,Oceania,Oceania
+Gandhi,1869.0,1948.0,79.0,Modern,Male,Indian,Asia,Asia
+Genghis Khan,1162.0,1227.0,65.0,Medieval,Male,Mongolian,Asia,Asia
+Gustavus Adolphus,1594.0,1632.0,38.0,Renaissance,Male,Swedish,Europe,Europe
+Haile Selassie,1892.0,1975.0,83.0,Modern,Male,Ethiopian,Africa,Africa
+Harald Bluetooth,920.0,986.0,66.0,Medieval,Male,Danish,Europe,Europe
+Harun al-Rashid,763.0,809.0,46.0,Classical,Male,Arabian,Asia,Middle East
+Hiawatha,1525.0,1595.0,70.0,Renaissance,Male,Iroquois,N. America,Americas
+Isabella,1451.0,1504.0,53.0,Renaissance,Female,Spanish,Europe,Europe
+KameÂ­hameha,1758.0,1819.0,61.0,Renaissance,Male,Polynesian,Oceania,Oceania
+Maria I,1734.0,1816.0,82.0,Renaissance,Female,Portuguese,Europe,Europe
+Maria Theresa,1717.0,1780.0,63.0,Renaissance,Female,Austrian,Europe,Europe
+Montezuma,1398.0,1469.0,71.0,Renaissance,Male,Aztec,N. America,Americas
+Napoleon,1769.0,1821.0,52.0,Renaissance,Male,French,Europe,Europe
+NebuchadÂ­nezzar II,-634.0,-562.0,72.0,Ancient,Male,Babylonian,Asia,Middle East
+Oda Nobunaga,1534.0,1582.0,48.0,Renaissance,Male,Japanese,Asia,Asia
+Pacal,603.0,683.0,80.0,Classical,Male,Mayan,N. America,Americas
+Pachacuti,1410.0,1471.0,61.0,Renaissance,Male,Incan,S. America,Americas
+Pedro II,1825.0,1891.0,66.0,Modern,Male,Brazilian,S. America,Americas
+Pocatello,1815.0,1884.0,69.0,Modern,Male,Shoshone,N. America,Americas
+Ramesses II,-1303.0,-1213.0,90.0,Ancient,Male,Egyptian,Africa,Africa
+RamÂ­khamhaeng,1240.0,1298.0,58.0,Medieval,Male,Thai,Asia,Asia
+Sejong,1397.0,1450.0,53.0,Renaissance,Male,Korean,Asia,Asia
+Shaka,1787.0,1828.0,41.0,Modern,Male,Zulu,Africa,Africa
+Suleiman,1494.0,1566.0,72.0,Renaissance,Male,Turkish,Europe,Europe
+Theodora,497.0,548.0,51.0,Classical,Female,Byzantine,Europe,Europe
+Washington,1732.0,1799.0,67.0,Renaissance,Male,American,N. America,Americas
+William,1533.0,1584.0,51.0,Renaissance,Male,Dutch,Europe,Europe
+Wu Zetian,625.0,705.0,80.0,Classical,Female,Chinese,Asia,Asia
