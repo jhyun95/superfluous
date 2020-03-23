@@ -1,0 +1,26 @@
+﻿Nature,Attack,Defense,Special Attack,Special Defense,Speed
+Hardy,0,0,0,0,0
+Lonely,1,-1,0,0,0
+Brave,1,0,0,0,-1
+Adamant,1,0,-1,0,0
+Naughty,1,0,0,-1,0
+Bold,-1,1,0,0,0
+Docile,0,0,0,0,0
+Relaxed,0,1,0,0,-1
+Impish,0,1,-1,0,0
+Lax,0,1,0,-1,0
+Timid,-1,0,0,0,1
+Hasty,0,-1,0,0,1
+Serious,0,0,0,0,0
+Jolly,0,0,-1,0,1
+Naive,0,0,0,-1,1
+Modest,-1,0,1,0,0
+Mild,0,-1,1,0,0
+Quiet,0,0,1,0,-1
+Bashful,0,0,0,0,0
+Rash,0,0,1,-1,0
+Calm,-1,0,0,1,0
+Gentle,0,-1,0,1,0
+Sassy,0,0,0,1,-1
+Careful,0,0,-1,1,0
+Quirky,0,0,0,0,0
